@@ -1,0 +1,1 @@
+UPDATE turma SET Nome = "ADM" WHERE ID=1;

@@ -1,0 +1,1 @@
+UPDATE aluno SET Nome = "Kaleo Mecias" WHERE ID=1;

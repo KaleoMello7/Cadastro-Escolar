@@ -1,0 +1,1 @@
+UPDATE horario SET Descricao = "Matematica" WHERE ID=1;

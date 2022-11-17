@@ -1,0 +1,1 @@
+UPDATE aluno SET Descricao = "ADM" WHERE ID=1;

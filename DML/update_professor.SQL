@@ -1,0 +1,1 @@
+UPDATE professor SET Descricao = "Matematica", Nome = "Chiara" WHERE ID=1;
