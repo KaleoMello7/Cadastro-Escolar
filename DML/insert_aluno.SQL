@@ -1,1 +1,1 @@
-INSERT INTO aluno (ID, Nome) VALUES (1, "Kaleo")
+INSERT INTO aluno (ID, Nome) VALUES (1, "Kaleo");
